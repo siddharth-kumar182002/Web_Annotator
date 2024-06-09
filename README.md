@@ -1,3 +1,5 @@
+# Webpage Annotator Chrome Extension
+
 The Webpage Annotator Chrome Extension is a powerful and intuitive tool designed to enhance your web browsing experience by allowing you to highlight text and add notes directly on any webpage.
 
 One of the primary features of this extension is the ability to highlight content. Users can easily select text on any webpage and highlight it using customizable color-coded highlights. This feature is particularly useful for marking important sections of text, making it easier to find and reference critical information later. The color customization options allow users to choose colors that best suit their preferences, ensuring that their annotations are not only functional but also visually appealing.
