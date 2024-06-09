@@ -1,4 +1,4 @@
-The Webpage Annotator Chrome Extension is a powerful and intuitive tool designed to enhance your web browsing experience by allowing you to highlight text and add notes directly on any webpage. Whether you are a student, researcher, or just an avid reader, this extension can significantly improve your ability to organize and retain information from the web.
+The Webpage Annotator Chrome Extension is a powerful and intuitive tool designed to enhance your web browsing experience by allowing you to highlight text and add notes directly on any webpage.
 
 One of the primary features of this extension is the ability to highlight content. Users can easily select text on any webpage and highlight it using customizable color-coded highlights. This feature is particularly useful for marking important sections of text, making it easier to find and reference critical information later. The color customization options allow users to choose colors that best suit their preferences, ensuring that their annotations are not only functional but also visually appealing.
 
@@ -14,6 +14,5 @@ Using the extension is equally simple. Click on the extension icon in the Chrome
 
 The Webpage Annotator Chrome Extension is designed to be user-friendly and efficient, ensuring that you can easily annotate and organize information from the web. Its features are tailored to meet the needs of users who require a reliable and persistent way to highlight and note important information on webpages. By integrating this extension into your browser, you can enhance your productivity and make your web browsing experience more informative and organized.
 
-We welcome contributions to this project. If you have any suggestions or improvements, please fork the repository and create a pull request with your changes. This project is licensed under the MIT License, allowing you to freely use and modify it.
 
 In conclusion, the Webpage Annotator Chrome Extension is a versatile and essential tool for anyone looking to enhance their web browsing experience through effective and persistent annotations. Whether you are highlighting key points or adding insightful notes, this extension provides a seamless and customizable solution for all your annotation needs.
